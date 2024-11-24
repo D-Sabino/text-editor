@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D+Yp8VpatTM=",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\text-editor\\TextEditor\\TextEditor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felil\\.nuget\\packages\\system.windows.extensions\\9.0.0\\system.windows.extensions.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
