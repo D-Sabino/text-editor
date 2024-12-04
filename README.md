@@ -33,9 +33,8 @@ Um simples editor de texto baseado em console, desenvolvido em C#. Este programa
    ```
 
 4. Use o menu para selecionar a funcionalidade desejada:
-
-Digite o número correspondente à opção.
-Siga as instruções exibidas no console.
+- Digite o número correspondente à opção.
+- Siga as instruções exibidas no console.
 
 ## Menu Principal
 
